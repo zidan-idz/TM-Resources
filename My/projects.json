@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Smart Village System",
+        "description": "Sistem manajemen data desa modern yang terintegrasi. Menggantikan administrasi manual dengan dashboard real-time yang efisien dan transparan.",
+        "techStack": [
+            "Laravel",
+            "TailwindCSS",
+            "MySQL"
+        ],
+        "decision": "Dipilih karena stabilitas ekosistem enterprise Laravel dan kecepatan prototyping Tailwind. Mengutamakan delivery fitur yang cepat tanpa mengorbankan struktur.",
+        "link": "#"
+    },
+    {
+        "title": "Lab Inventory Tracker",
+        "description": "Aplikasi pelacakan aset laboratorium berbasis Python. Menangani peminjaman alat dengan logika First-In-First-Out dan pelaporan otomatis.",
+        "techStack": [
+            "Django",
+            "PostgreSQL",
+            "Bootstrap"
+        ],
+        "decision": "Memanfaatkan 'batteries-included' Django untuk menangani autentikasi kompleks dan CRUD relational data dengan kode yang minimal.",
+        "link": "#"
+    },
+    {
+        "title": "Indie Game Prototype",
+        "description": "Eksperimen pengembangan game 2D sederhana. Fokus pada mekanik fisika dasar dan interaksi pemain yang fluid.",
+        "techStack": [
+            "C++",
+            "Python",
+            "Physics Engine"
+        ],
+        "decision": "Hybrid architecture: High-performance C++ untuk core loop, dan Python untuk fleksibilitas scripting logic level design.",
+        "link": "#"
+    }
+]
